@@ -20,6 +20,6 @@ e) BOM (Bill of materials)
 
 f) Finalização e elaboração de vídeo explicativo.
 
-g)Envio dos arquivos fonte.
+g) Envio dos arquivos fonte.
 
 
