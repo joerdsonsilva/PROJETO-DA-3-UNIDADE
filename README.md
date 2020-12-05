@@ -1,5 +1,8 @@
 # PROJETO DA 3ª UNIDADE - EQUALIZADOR DE AÚDIO
 
+DISCIPLINA: CIRCUITO ELETRÔNICOS II
+ALUNOS:
+
 # Definição e Especificações
 
 - O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na figura 1. Ainda, deve ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
