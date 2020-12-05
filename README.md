@@ -1,4 +1,4 @@
-# PROJETO-DA-3-UNIDADE
+# PROJETO DA 3ª UNIDADE - EQUALIZADOR DE AÚDIO
 
 # Definição e Especificações
 
