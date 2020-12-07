@@ -17,11 +17,14 @@ a) Criar github de repostitório para o projeto ✅
 
 b) Projeto teórico
 
+em andamento
 c) Captura de esquemático e simulações
 
 d) Elaboração da PCB
 
 e) BOM (Bill of materials)
+
+Elaborar a lista de materiais.
 
 f) Finalização e elaboração de vídeo explicativo.
 
