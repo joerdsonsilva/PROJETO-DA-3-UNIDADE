@@ -11,9 +11,9 @@ DOCENTE: DR. PROF. FRANCISCO DE ASSIS BRITO FILHO
 
 DISCENTES : ERIKA OLIVEIRA DOS SANTOS
 
-JOERDSON TIAGO BATISTA DA SILVA
+				JOERDSON TIAGO BATISTA DA SILVA
 
-YURI FERNANDES
+		YURI FERNANDES
 
 # 1. OBJETIVO
 
@@ -23,7 +23,9 @@ YURI FERNANDES
 
   O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Ainda, deve ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
 
-# DESENVOLVIMENTO
+# 2. DESENVOLVIMENTO
+
+Nesta seção, será apresentado o desenvolvimento do projeto, desde o projeto teórico aos resultados obtidos.
 
 - Etapas do Projeto
 
