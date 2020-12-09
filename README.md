@@ -50,9 +50,13 @@ Para as frequências médias, temos que o filtro passa-banda irá atuar entre as
 Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as frequências de 2kHz a 20kHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
 
 # Mecanismo de controle de ganho
-O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total) .......
+O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total) ....... Temos que o ganho do filtro foram definidos da seguinte forma:
 
-Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas, de modo que se variar o potênciometro com uma resistência mais baixa
+Para as frequências graves:
+Para as frequências médias:
+Para ass frequências agudas:
+
+Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas, de modo que se variar o potênciometro com uma resistência mais baixa (R2<X), o ganho do estágio diminui e se varia com uma resistência maior (R2>X), o ganho aumenta. 
 
 Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf, pois cada entrada do somador (saída dos filtros) adiciona um nível de tensão que é multiplicado pelo seu fator de ganho e como as resistências de de entrada do somador são iguais, o potênciometro na posição de Rf afeta diretamente o ganho, visto que se eu aumentar o valor de Rf. eu aumento o ganho total do meu equalizador, e se eu diminuir Rf, terei um ganho tota menor apresentado na saída.
 
