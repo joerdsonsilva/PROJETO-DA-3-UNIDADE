@@ -44,7 +44,7 @@ Para as frequências graves, temos que o filtro passa-banda irá atuar entre as 
 Podemos observar que, os componentes calculados para os filtros são de valores comerciais, sendo para alguns, o uso de associação série ou paralela para obter o valor projetado.
 
 # Filtro passa-baixa - frequências médias
-Para as frequências médias, temos que o filtro passa-banda irá atuar entre as frequências de XXHz a XXXHz (o filtro passa-banda de frequências médias atuará entre as frequências graves e agudas e devido a isso, foi considerado uma faixa de transição entre os graves-médios e agudos-médios, de modo que existe uma faixa onde as frequências atuam em conjunto), de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
+Para as frequências médias, temos que o filtro passa-banda irá atuar entre as frequências de XXHz a XXXHz (o filtro passa-banda de frequências médias atuará entre as frequências graves e agudas. Devido a isso, foi considerado uma faixa de transição entre os graves-médios e agudos-médios (isso ocorre devido a quantidade de estágios, pois nãp é possível compreender todas as faixas de frequências e sub frequências), de modo que existe uma faixa onde as frequências atuam em conjunto), de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
 
 # Filtro passa-baixa - frequências agudas
 Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as frequências de 2kHz a 20kHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
