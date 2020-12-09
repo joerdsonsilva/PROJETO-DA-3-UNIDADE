@@ -53,7 +53,9 @@ Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as 
 O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total) ....... Temos que o ganho do filtro foram definidos da seguinte forma:
 
 Para as frequências graves:
+
 Para as frequências médias:
+
 Para ass frequências agudas:
 
 Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas, de modo que se variar o potênciometro com uma resistência mais baixa (R2<X), o ganho do estágio diminui e se varia com uma resistência maior (R2>X), o ganho aumenta. 
