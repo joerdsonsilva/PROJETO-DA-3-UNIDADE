@@ -36,10 +36,18 @@ a) Criar github de repostitório para o projeto ✅
 
 b) Projeto teórico
 
-O equalizador é composto de filtros ativo passa-banda de segunda ordem, que são construidos por meio de filtros ativos passa-baixa e passa-altas, ambos de segunda ordem, divididos nos 3 estagios de frequência (graves, médios e agudos)
+O equalizador é composto de filtros ativo passa-banda de segunda ordem (onde são construidos por meio de um filtro ativo passa-baixa de sallen-key e um passa-alta de sallen-key, ambos de segunda ordem e com componentes iguais) e divididos nos 3 estagios de frequência (graves, médios e agudos). 
 
-# Filtro passa-baixa - 
-Para as frequências graves, temos que o filtro passa-banda irá atuar entre as frequências de 20Hz a 500Hz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. O filtro passa-banda de segunda ordem é a junção em cascata dos filtros, passa-alta de sallen-key e passa-baixa de sallen-key, de componentes iguais. Podemos calcular os componentes da seguinte forma:
+# Filtro passa-baixa - frequências graves
+Para as frequências graves, temos que o filtro passa-banda irá atuar entre as frequências de 20Hz a 500Hz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
+
+Podemos observar que, os componentes calculados para os filtros são de valores comerciais, sendo para alguns, o uso de associação série ou paralela para obter o valor projetado.
+
+# Filtro passa-baixa - frequências médias
+Para as frequências médias, temos que o filtro passa-banda irá atuar entre as frequências de XXHz a XXXHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
+
+# Filtro passa-baixa - frequências agudas
+Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as frequências de 2kHz a 20kHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
 
 c) Captura de esquemático e simulações
 
