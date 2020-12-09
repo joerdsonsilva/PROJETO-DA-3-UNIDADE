@@ -52,7 +52,10 @@ Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as 
 # Mecanismo de controle de ganho
 O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total) .......
 
-Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas.... Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf
+Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas.... 
+
+Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf, pois cada entrada do somador (saída dos filtros) adiciona um nível de tensão que é multiplicado pelo seu fator de ganho e como as resistências de de entrada do somador são iguais, o potênciometro na posição de Rf afeta diretamente o ganho, visto que se eu aumentar o valor de Rf. eu aumento o ganho total do meu equalizador, e se eu diminuir Rf, terei um ganho tota menor apresentado na saída.
+
 
 c) Captura de esquemático e simulações
 
