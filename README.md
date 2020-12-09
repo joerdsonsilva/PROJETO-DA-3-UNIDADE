@@ -36,6 +36,8 @@ a) Criar github de repostitório para o projeto ✅
 
 b) Projeto teórico
 
+O projeto teorico consiste em determinar os componentes que compõe o equalizador de áudio. O equalizador é composto de filtros ativo passa-banda de segunda ordem, que são construidos por meio de filtros ativos passa-baixa e passa-altas, ambos de segunda ordem.
+
 _em andamento
 
 c) Captura de esquemático e simulações
@@ -44,7 +46,7 @@ d) Elaboração da PCB
 
 e) BOM (Bill of materials)
 
-_Elaborar a lista de materiais.
+_Elaborar a lista de materiais
 
 f) Finalização e elaboração de vídeo explicativo.
 
