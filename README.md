@@ -36,11 +36,10 @@ a) Criar github de repostitório para o projeto ✅
 
 b) Projeto teórico
 
-O equalizador é composto de filtros ativo passa-banda de segunda ordem, que são construidos por meio de filtros ativos passa-baixa e passa-altas, ambos de segunda ordem. 
+O equalizador é composto de filtros ativo passa-banda de segunda ordem, que são construidos por meio de filtros ativos passa-baixa e passa-altas, ambos de segunda ordem, divididos nos 3 estagios de frequência (graves, médios e agudos)
 
-# Filtro passa-baixa 
-
-_em andamento
+# Filtro passa-baixa - 
+Para as frequências graves, temos que o filtro passa-banda irá atuar entre as frequências de 20Hz a 500Hz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. O filtro passa-banda de segunda ordem é a junção em cascata dos filtros, passa-alta de sallen-key e filtro passa-baixa de sallen-key, de componentes iguais. 
 
 c) Captura de esquemático e simulações
 
