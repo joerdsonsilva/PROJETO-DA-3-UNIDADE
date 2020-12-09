@@ -50,7 +50,9 @@ Para as frequências médias, temos que o filtro passa-banda irá atuar entre as
 Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as frequências de 2kHz a 20kHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
 
 # Mecanismo de controle de ganho
-O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total)
+O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total) .......
+
+Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas.... Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf
 
 c) Captura de esquemático e simulações
 
