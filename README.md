@@ -49,6 +49,9 @@ Para as frequências médias, temos que o filtro passa-banda irá atuar entre as
 # Filtro passa-baixa - frequências agudas
 Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as frequências de 2kHz a 20kHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
 
+# Mecanismo de controle de ganho
+
+
 c) Captura de esquemático e simulações
 
 d) Elaboração da PCB
