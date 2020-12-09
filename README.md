@@ -36,7 +36,12 @@ a) Criar github de repostitório para o projeto ✅
 
 b) Projeto teórico
 
+# Filtros ativos
+Todo mundo tem um conceito intuitivo sobre a função de um filtro. Em quase todos os sistemas eletrônicos existem algum tipo de filtro, principalmente no campo da telecomunicação e da instrumentação industrial, na qual se fazem mais presente em meios aos circuitos. Por exemplo, atualmente, os filtros ativos são elementos básicos nos circuitos de redes de comunicação de dados, posto que os equipamentos de computadores são conectados à rede telefônica através de MODEM, que são a base de filtros ativos. 
+Um filtro elétrico por definição é “ um quadripolo capaz de atenuar determinadas frequências do espectro de sinal de entrada e permite a passagem das demais”. Em sua maioria, os filtros são constituídos de componentes passivos como resistores e capacitores. Nos filtros ativos utilizam amplificadores, associados aos elementos passivos, nos quais tem função de produzir amplificação de tensão, buferização ou isolamento do sinal. Os filtros ativos podem ser classificados como passa-baixa, passa-alta ou passa-banda, que é o a junção dos dois outros tipos de filtros e objeto de pesquisa do presente trabalho. 
+
 O equalizador é composto de filtros ativo passa-banda de segunda ordem (onde são construidos por meio de um filtro ativo passa-baixa e um passa-alta, ambos de segunda ordem e com componentes iguais) e divididos nos 3 estagios de frequência (graves, médios e agudos). 
+
 
 # Filtro passa-baixa - frequências graves
 Para as frequências graves, temos que o filtro passa-banda irá atuar entre as frequências de 20Hz a 500Hz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
