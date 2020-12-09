@@ -58,9 +58,9 @@ Para as frequências médias:
 
 Para ass frequências agudas:
 
-Em cada estágio, o potênciometro será posicionado no R2 dos filtro passa-baixas, de modo que se variar o potênciometro com uma resistência mais baixa (R2<X), o ganho do estágio diminui e se varia com uma resistência maior (R2>X), o ganho aumenta. 
+Para o controle de ganho individual, o potênciometro será posicionado no R2 dos filtro passa-baixas, de modo que se variar o potênciometro com uma resistência mais baixa (R2<X), o ganho do estágio diminui e se varia com uma resistência maior (R2>X), o ganho aumenta. 
 
-Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf, pois cada entrada do somador (saída dos filtros) adiciona um nível de tensão que é multiplicado pelo seu fator de ganho e como as resistências de de entrada do somador são iguais, o potênciometro na posição de Rf afeta diretamente o ganho, visto que se eu aumentar o valor de Rf. eu aumento o ganho total do meu equalizador, e se eu diminuir Rf, terei um ganho tota menor apresentado na saída.
+Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf, pois cada entrada do somador (saída dos filtros) adiciona um nível de tensão que é multiplicado pelo seu fator de ganho e como as resistências de de entrada do somador são iguais (R=1k), o potênciometro na posição de Rf afeta diretamente o ganho, visto que se eu aumentar o valor de Rf (Rf>1k), aumento o ganho total do meu equalizador, e se eu diminuir Rf (Rf<1k), terei um ganho total menor apresentado na saída.
 
 
 c) Captura de esquemático e simulações
