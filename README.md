@@ -40,7 +40,6 @@ O equalizador é composto de filtros ativo passa-banda de segunda ordem, que sã
 
 # Filtro passa-baixa - 
 Para as frequências graves, temos que o filtro passa-banda irá atuar entre as frequências de 20Hz a 500Hz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. O filtro passa-banda de segunda ordem é a junção em cascata dos filtros, passa-alta de sallen-key e passa-baixa de sallen-key, de componentes iguais. Podemos calcular os componentes da seguinte forma:
-f_OL = 1/(2π(R_1)(C_1))
 
 c) Captura de esquemático e simulações
 
