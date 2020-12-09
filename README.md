@@ -65,7 +65,8 @@ Para o controle de ganho master, o potenciômetro é posicionado na resistência
 
 c) Captura de esquemático e simulações
 
-Um filtro ideal possuiria uma banda passante totalmente plana (sem atenuação), e iria atenuar completamente todas as frequências fora desta banda (mas prática, nenhum filtro passa-faixa é ideal pois não atenua todas as frequências fora da faixa desejada). O equalzador projetado possui uma 
+
+Um filtro ideal possuiria uma banda passante totalmente plana (sem atenuação), atenuando completamente todas as frequências fora desta banda (mas prática, nenhum filtro passa-faixa é ideal pois não atenua todas as frequências fora da faixa desejada) e inalterando as frequências dentro as faixas projetadas. O equalzador projetado possui uma 
 
 d) Elaboração da PCB
 
