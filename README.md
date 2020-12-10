@@ -113,5 +113,5 @@ Nesta seção, será anexado o link com um vídeo explicativo dos integrantes do
 
 Vídeo de Erika (<https://drive.google.com/file/d/1qVSOvwzjrLqCxzhiHRnqsLTnm3BblINS/view>)
 
-
+Vídeo de Yuri (<https://drive.google.com/file/d/1RKlBarmfgpW-UrKd1QoHDpdVuPZ0AN3d/view?usp=sharing>)
 
