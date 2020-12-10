@@ -84,6 +84,8 @@ Após analisar cada circuito separadamente, e confirmar que foram satisfeita as 
 
 ![fig 9](https://user-images.githubusercontent.com/75510214/101717124-78fb7300-3a7d-11eb-8fde-57ef9d994162.png)
 
+Podemos observa com a figura 9 que, um filtro ideal possuiria uma banda passante totalmente plana (sem atenuação), e iria atenuar completamente todas as frequências fora desta banda, porem na na prática não ocorre dessa forma 
+
 # 2.2 Esquemático do PCB
 
 A layout da PCB foi construido no software proteus.
