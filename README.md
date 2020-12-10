@@ -14,10 +14,10 @@ DISCENTES :
 	     JOERDSON TIAGO BATISTA DA SILVA
 	     YURI FERNANDES DA SILVEIRA
 
-# *EQUALIZADOR DE ÁUDIO*
+# **EQUALIZADOR DE ÁUDIO**
 			 
 
-# 1. OBJETIVO
+# **1. OBJETIVO**
 
   Projetar um Equalizador de áudio utilizando filtros ativos passa-banda de segunda ordem e amplificadores operacionais (amp-op). Por fim, este relatório tem como finalidade mostrar de forma didática como o projeto proposto foi elaborado.
 
@@ -27,7 +27,7 @@ DISCENTES :
 ![](https://user-images.githubusercontent.com/75510214/101711689-d9d17e00-3a72-11eb-89d7-e5ea764948a4.png)
 
 	
-# 2. DESENVOLVIMENTO
+# **2. DESENVOLVIMENTO**
 
  Um Equalizador permite que você melhore a qualidade de som, ou seja, permite ajustar os níves e efeitos sonoros e assim possa obter o melhor dos seu aparelho eletrônico, como por exemplo alto-falantes ou fones de ouvidos.
  O projeto tem como finalidade apresentar um equalizador de áudio fácil de usar com o controle de volume individual e um geral, similar ao que acontece na prática.
@@ -84,7 +84,19 @@ Após analisar cada circuito separadamente, e confirmar que foram satisfeita as 
 
 ![fig 9](https://user-images.githubusercontent.com/75510214/101717124-78fb7300-3a7d-11eb-8fde-57ef9d994162.png)
 
+# 2.2 Esquemático do PCB
 
+Nesta seção, será apresentado o esquemátivo do layou do PCB do Circuito Equalizador de Áudio.
+
+
+
+# 2.3 Lista dos Materiais (BOM)
+
+Nesta seção será apresentado a lista dos materiais, utilizados para elaborar o projeto, bem como seu valor.
+
+# **Anexos**
+
+Nesta seção, será anexado o link com um vídeo explicativo dos integrantes do projeto.
 
 
 
