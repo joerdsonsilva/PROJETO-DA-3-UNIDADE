@@ -23,12 +23,16 @@ DISCENTES :
   Projetar um Equalizador de áudio utilizando filtros ativos, passa-banda de segunda ordem e amplificadores operacionais. Por fim, este relatório tem como finalidade mostrar de forma didática como o projeto proposto foi elaborado.
 
 # 1.1 Objetivos específicos
-
-  O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Ainda, deve ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
-
+ O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Além disso, deve-se ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
+  
 # 2. DESENVOLVIMENTO
 
-Nesta seção, será apresentado o desenvolvimento do projeto, desde o projeto teórico aos resultados obtidos.
+ Um Equalizador permite que você melhore a qualidade de som, ou seja, permite ajustar os níves e efeitos sonoros e assim possa obter o melhor dos seu aparelho eletrônico, como por exemplo alto-falantes ou fones de ouvidos.
+ O projeto tem como finalidade apresentar um equalizador de áudio fácil de usar com o controle de volume individual e um geral, similar ao que acontece na prática.
+
+# 2.1 Memorial Descritivo
+
+ Nesta seção, será apresentado o desenvolvimento do projeto, apresentando o memorial descritivo da parte teórica, e por fim, os resultados obtidos.
 
 - Etapas do Projeto
 
