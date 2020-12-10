@@ -14,14 +14,14 @@ DISCENTES :
 	     JOERDSON TIAGO BATISTA DA SILVA
 	     YURI FERNANDES DA SILVEIRA
 
-# **EQUALIZADOR DE ÁUDIO**
+# EQUALIZADOR DE ÁUDIO
 			 
 
-# **1. OBJETIVO**
+# 1. OBJETIVO
 
   Projetar um Equalizador de áudio utilizando filtros ativos passa-banda de segunda ordem e amplificadores operacionais (amp-op). Por fim, este relatório tem como finalidade mostrar de forma didática como o projeto proposto foi elaborado.
 
-# 1.1 Objetivos Específicos
+# 1.1. Objetivos Específicos
  O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Além disso, deve-se ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
  
 ![](https://user-images.githubusercontent.com/75510214/101711689-d9d17e00-3a72-11eb-89d7-e5ea764948a4.png)
@@ -32,7 +32,7 @@ DISCENTES :
  Um Equalizador permite que você melhore a qualidade de som, ou seja, permite ajustar os níves e efeitos sonoros para assim obter um melhor desempenho dos seus aparelhos eletrônicos, como por exemplo alto-falantes ou fones de ouvidos.
  O projeto tem como finalidade apresentar um equalizador de áudio fácil de usar com o controle de volume individual e um geral, similar ao que acontece na prática.
 
-# 2.1 Memorial Descritivo
+# 2.1. Memorial Descritivo
 
  Como mencionado anteriormente, o circuito é constituído por um filtro ativo, do tipo passa banda de segunda ordem, com implementação de amp-op. Dessa forma, para construir a topologia do filtro passa-banda é necessário a junção de dois filtros ativos, o filtro passa-altas e o filtro  passa-baixas, respectivamente nessa ordem a junção. Nesta seção, é apresentado o memorial descritivo da parte teórica, e por fim, os resultados obtidos. 
  
