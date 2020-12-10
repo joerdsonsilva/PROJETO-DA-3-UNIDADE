@@ -86,7 +86,7 @@ Após analisar cada circuito separadamente, e confirmar que foram satisfeita as 
 
 # 2.2 Esquemático do PCB
 
-Nesta seção, será apresentado o esquemátivo do layou do PCB do Circuito Equalizador de Áudio.
+A layout da PCB foi construido no software proteus.
 
 
 
