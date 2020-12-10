@@ -97,6 +97,7 @@ Nesta seção será apresentado a lista dos materiais, utilizados para elaborar 
 Tabela 1 - Lista de Materiais
 
 ![assc](https://github.com/joerdsonsilva/PROJETO-DA-3-UNIDADE/blob/main/assc.png)
+Fonte dos preços: Bau da eletrônica, Solda Fria, Paresteck e Amazon.
 
 # CONCLUSÃO
 
