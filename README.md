@@ -15,14 +15,13 @@ DISCENTES :
 	     YURI FERNANDES DA SILVEIRA
 
 # EQUALIZADOR DE ÁUDIO
-
-				 
+			 
 
 # 1. OBJETIVO
 
-  Projetar um Equalizador de áudio utilizando filtros ativos, passa-banda de segunda ordem e amplificadores operacionais. Por fim, este relatório tem como finalidade mostrar de forma didática como o projeto proposto foi elaborado.
+  Projetar um Equalizador de áudio utilizando filtros ativos passa-banda de segunda ordem e amplificadores operacionais (amp-op). Por fim, este relatório tem como finalidade mostrar de forma didática como o projeto proposto foi elaborado.
 
-# 1.1 Objetivos específicos
+# 1.1 Objetivos Específicos
  O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Além disso, deve-se ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
   
 # 2. DESENVOLVIMENTO
@@ -32,13 +31,23 @@ DISCENTES :
 
 # 2.1 Memorial Descritivo
 
- Nesta seção, será apresentado o desenvolvimento do projeto, apresentando o memorial descritivo da parte teórica, e por fim, os resultados obtidos.
+ Como mencionado anteriormente, o circuito será constituído por um filtro ativo, do tipo passa banda de segunda ordem, com implementação de amp-op. Dessa forma, para construir a topologia do filtro passa-banda é necessário a junção de dois filtros ativos, o filtro ativo passa-altas e o filtro ativo passa-baixas, respectivamente nessa ordem a junção. Nesta seção, será apresentado o desenvolvimento do projeto, apresentando o memorial descritivo da parte teórica, e por fim, os resultados obtidos. 
+ 
+ # 2.1.1. _Memorial de Cálculo_
+  
+  A topologia do projeto, é composta por três filtros passa banda, um estágio para cada faixa de frequência, ou seja, para as faixas de frequência grave, médias e agudas, conforme mostrado na Figura 1. Sendo implementador em um amp-op somador, com reguladores de ganho individuais e o geral.
+  
+  A seguir será apresentado o memorial de cálculo, vale destacar que o circuito implementou o circuito denominado _Sallen-Key de componentes iguais_. 
+  
+  Considerações:
+ 
+  * Frequências graves
+  
 
-- Etapas do Projeto
 
-a) Criar github de repostitório para o projeto ✅
 
-b) Projeto teórico
+
+
 
 # Filtros ativos
 Todo mundo tem um conceito intuitivo sobre a função de um filtro. Em quase todos os sistemas eletrônicos existem algum tipo de filtro, principalmente no campo da telecomunicação e da instrumentação industrial, na qual se fazem mais presente em meios aos circuitos. Por exemplo, atualmente, os filtros ativos são elementos básicos nos circuitos de redes de comunicação de dados, posto que os equipamentos de computadores são conectados à rede telefônica através de MODEM, que são a base de filtros ativos. 
