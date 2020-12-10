@@ -72,6 +72,13 @@ Agora será apresentado o filtro passa banda de frequência aguda na Figura 6 e 
 
 ![fig 7](https://user-images.githubusercontent.com/75510214/101716943-1f934400-3a7d-11eb-8c41-7955209426e7.png)
 
+Após analisar cada circuito separadamente, e confirmar que foram satisfeita as condições iniciais, foi implemantado os circuitos em um amp-op somador, como mostrado na Figura 8, e sua frquência de corte na Figura 9. O circuito utilizou um fonte de sinal de entrada de 500 mV, e amplificadores do tipo 741.
+
+![fig 8](https://user-images.githubusercontent.com/75510214/101717114-726cfb80-3a7d-11eb-95c0-0427e64f1fa2.png)
+
+![fig 9](https://user-images.githubusercontent.com/75510214/101717124-78fb7300-3a7d-11eb-8fde-57ef9d994162.png)
+
+
 
 
 
