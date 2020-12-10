@@ -62,27 +62,27 @@ Após encontrar os valores de Resistores (R) e capacitores (C), foi implentados 
 
 A Figura 2 mostra a topologia do circuito para a frequencia grave, e na sua resposta para frequência de corte na Figura 3 .
 
-![Filtro p freq grave](https://user-images.githubusercontent.com/75510214/101713258-12bf2200-3a76-11eb-80e7-ebf3858cef55.png)
+![FIG 2](https://user-images.githubusercontent.com/75510214/101814172-8b68c180-3afc-11eb-91e9-5c3b05025bb3.png)
 
 ![figura 3](https://user-images.githubusercontent.com/75510214/101715546-69c6f600-3a7a-11eb-9aa4-680bf8a73847.png)
 
 A Figura 4 apresenta a topologia para o filtro passa banda de frequência média e a Figura 5, sua resposta de frequência de corte.
 
-![figura 4](https://user-images.githubusercontent.com/75510214/101715743-c0343480-3a7a-11eb-85e0-93083fde7448.png)
+![figura 4](https://user-images.githubusercontent.com/75510214/101814182-8dcb1b80-3afc-11eb-9e9a-512f902621fa.png)
 
 ![fig 5](https://user-images.githubusercontent.com/75510214/101716690-94b24980-3a7c-11eb-8cb3-60964ff9199d.png)
 
 Agora será apresentado o filtro passa banda de frequência aguda na Figura 6 e sua frequência de corte, Figura 7.
 
-![fig 6](https://user-images.githubusercontent.com/75510214/101716924-10ac9180-3a7d-11eb-9682-1e31188d61ad.png)
+![fig 6](https://user-images.githubusercontent.com/75510214/101814217-991e4700-3afc-11eb-8a4b-178596ce9c3a.png)
 
 ![fig 7](https://user-images.githubusercontent.com/75510214/101716943-1f934400-3a7d-11eb-8c41-7955209426e7.png)
 
 Após analisar cada circuito separadamente, e confirmar que foram satisfeita as condições iniciais, foi implemantado os circuitos em um amp-op somador, como mostrado na Figura 8, e sua frquência de corte na Figura 9. O circuito utilizou um fonte de sinal de entrada de 500 mV, e amplificadores do tipo 741. Além disso, foram utilizados potenciômetros para realizar o controle de ganho/volume individual e geral. Desse modo, as demais informações constaram no projeto.
 
-![fig 8](https://user-images.githubusercontent.com/75510214/101717114-726cfb80-3a7d-11eb-95c0-0427e64f1fa2.png)
+![fig 8](https://user-images.githubusercontent.com/75510214/101814228-9c193780-3afc-11eb-9cdb-ef0fd1b61d36.png)
 
-![fig 9](https://user-images.githubusercontent.com/75510214/101717124-78fb7300-3a7d-11eb-8fde-57ef9d994162.png)
+![fig 9](https://user-images.githubusercontent.com/75510214/101814241-a0455500-3afc-11eb-9a5d-11551c0e8e29.png)
 
 Podemos observa com a figura 9 que, a largura da banda não se mostrou completamente plana mas atende as caracteristicas pedidas no projeto. Temos que um filtro ideal possuiria uma banda passante totalmente plana (figura 1), e iria atenuar completamente todas as frequências fora desta banda, porem na na prática não ocorre dessa forma. A banda passante teve algumas oscilações, porem as frequências de corte das extremidades (que define o limite da banda onde as frequências não são atenuadas) coincidiram para uma respota esperada.
 
