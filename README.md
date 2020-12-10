@@ -100,6 +100,7 @@ Tabela 1 - Lista de Materiais
 
 # CONCLUSÃO
 
+A partir das etapas de análise implementadas, foi possível concretizar os objetivos pretendidos com a determinação das faixas de frequências graves, médias e agudas. A análise teórica realizada apresentou resultados convergentes com os obtidos na simulação do circuito. Assim, a modelagem simplificadora adotada apresenta validade significativa.
 
 # **Anexos**
 
