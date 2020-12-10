@@ -34,7 +34,7 @@ DISCENTES :
 
 # 2.1 Memorial Descritivo
 
- Como mencionado anteriormente, o circuito será constituído por um filtro ativo, do tipo passa banda de segunda ordem, com implementação de amp-op. Dessa forma, para construir a topologia do filtro passa-banda é necessário a junção de dois filtros ativos, o filtro ativo passa-altas e o filtro ativo passa-baixas, respectivamente nessa ordem a junção. Nesta seção, será apresentado o desenvolvimento do projeto, apresentando o memorial descritivo da parte teórica, e por fim, os resultados obtidos. 
+ Como mencionado anteriormente, o circuito será constituído por um filtro ativo, do tipo passa banda de segunda ordem, com implementação de amp-op. Dessa forma, para construir a topologia do filtro passa-banda é necessário a junção de dois filtros ativos, o filtro passa-altas e o filtro  passa-baixas, respectivamente nessa ordem a junção. Nesta seção, será apresentado o memorial descritivo da parte teórica, e por fim, os resultados obtidos. 
  
  # 2.1.1. _Memorial de Cálculo_
   
@@ -51,6 +51,8 @@ DISCENTES :
 * Frequência Aguda - adotou-se uma faixa de frequência de 2 kHz à 20 kHz, onde 2 kHz é a frequencia de corte do filtro passa-altas (f_ol) e 20 kHz a frequência de corte do filtro passa-baixas (f_oh).
 
 ![memorial de cálculoo](https://user-images.githubusercontent.com/75510214/101712624-b3acdd80-3a74-11eb-8665-cda093d8e783.png)
+
+ # 2.1.2. _Simulações_
 
 Após encontrar os valores de Resistores (R) e capacitores (C), foi implentados os circuitos.
 
@@ -72,7 +74,7 @@ Agora será apresentado o filtro passa banda de frequência aguda na Figura 6 e 
 
 ![fig 7](https://user-images.githubusercontent.com/75510214/101716943-1f934400-3a7d-11eb-8c41-7955209426e7.png)
 
-Após analisar cada circuito separadamente, e confirmar que foram satisfeita as condições iniciais, foi implemantado os circuitos em um amp-op somador, como mostrado na Figura 8, e sua frquência de corte na Figura 9. O circuito utilizou um fonte de sinal de entrada de 500 mV, e amplificadores do tipo 741.
+Após analisar cada circuito separadamente, e confirmar que foram satisfeita as condições iniciais, foi implemantado os circuitos em um amp-op somador, como mostrado na Figura 8, e sua frquência de corte na Figura 9. O circuito utilizou um fonte de sinal de entrada de 500 mV, e amplificadores do tipo 741. Além disso, foram utilizados potenciômetros para realizar o controle de ganho/volume individual e geral. Desse modo, as demais informações constaram no projeto.
 
 ![fig 8](https://user-images.githubusercontent.com/75510214/101717114-726cfb80-3a7d-11eb-95c0-0427e64f1fa2.png)
 
