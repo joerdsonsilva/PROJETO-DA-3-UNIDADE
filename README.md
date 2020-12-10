@@ -84,7 +84,7 @@ Após analisar cada circuito separadamente, e confirmar que foram satisfeita as 
 
 ![fig 9](https://user-images.githubusercontent.com/75510214/101717124-78fb7300-3a7d-11eb-8fde-57ef9d994162.png)
 
-Podemos observa com a figura 9 que, um filtro ideal possuiria uma banda passante totalmente plana (sem atenuação), e iria atenuar completamente todas as frequências fora desta banda, porem na na prática não ocorre dessa forma 
+Podemos observa com a figura 9 que, a largura da banda não se mostrou completamente plana mas atende as caracteristicas pedidas no projeto. Temos que um filtro ideal possuiria uma banda passante totalmente plana (figura 1), e iria atenuar completamente todas as frequências fora desta banda, porem na na prática não ocorre dessa forma. A banda passante teve algumas oscilações, porem as frequências de corte das extremidades 
 
 # 2.2 Esquemático do PCB
 
