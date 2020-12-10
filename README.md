@@ -50,6 +50,9 @@ DISCENTES :
 
 * Frequência Aguda - adotou-se uma faixa de frequência de 2 kHz à 20 kHz, onde 2 kHz é a frequencia de corte do filtro passa-altas (f_ol) e 20 kHz a frequência de corte do filtro passa-baixas (f_oh).
 
+![memorial de cálculoo](https://user-images.githubusercontent.com/75510214/101712624-b3acdd80-3a74-11eb-8665-cda093d8e783.png)
+
+Após encontrar os valores de Resistores (R) e capacitores (C), foi implentados os circuitos.
 
 
 
