@@ -58,9 +58,7 @@ DISCENTES :
 
  # 2.1.2. _Simulações_
 
-Após encontrar os valores de Resistores (R) e capacitores (C), foi implentados os circuitos.
-
-A Figura 2 mostra a topologia do circuito para a frequencia grave, e na sua resposta para frequência de corte na Figura 3 .
+Após encontrar os valores de Resistores (R) e capacitores (C), foi implentados os circuitos. A Figura 2 mostra a topologia do circuito para a frequencia grave, e na sua resposta para frequência de corte na Figura 3 .
 
 ![FIG 2](https://user-images.githubusercontent.com/75510214/101814172-8b68c180-3afc-11eb-91e9-5c3b05025bb3.png)
 
