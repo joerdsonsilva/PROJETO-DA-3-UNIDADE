@@ -54,6 +54,12 @@ DISCENTES :
 
 Após encontrar os valores de Resistores (R) e capacitores (C), foi implentados os circuitos.
 
+A Figura 2 mostra a topologia do circuito para a frequencia grave, e na sua resposta para frequência de corte na Figura 3 .
+
+![Filtro p freq grave](https://user-images.githubusercontent.com/75510214/101713258-12bf2200-3a76-11eb-80e7-ebf3858cef55.png)
+
+![figura 3](https://user-images.githubusercontent.com/75510214/101715546-69c6f600-3a7a-11eb-9aa4-680bf8a73847.png)
+
 
 
 
