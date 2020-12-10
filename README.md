@@ -23,7 +23,11 @@ DISCENTES :
 
 # 1.1 Objetivos Específicos
  O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Além disso, deve-se ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
-  
+ 
+ <p align="center">
+	<https://github.com/joerdsonsilva/PROJETO-DA-3-UNIDADE/issues/1#issue-760817268>
+		</p>
+	
 # 2. DESENVOLVIMENTO
 
  Um Equalizador permite que você melhore a qualidade de som, ou seja, permite ajustar os níves e efeitos sonoros e assim possa obter o melhor dos seu aparelho eletrônico, como por exemplo alto-falantes ou fones de ouvidos.
