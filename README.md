@@ -96,7 +96,7 @@ Nesta seção será apresentado a lista dos materiais, utilizados para elaborar 
 
 Tabela 1 - Lista de Materiais
 
-![tab](https://user-images.githubusercontent.com/75510214/101721762-7736ad00-3a87-11eb-95cc-d37d93cc8833.png)
+
 
 # CONCLUSÃO
 
