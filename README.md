@@ -24,9 +24,8 @@ DISCENTES :
 # 1.1 Objetivos Específicos
  O equalizador deve ter 3 estágios, sendo um para frequências graves, um para frequências médias, e um para frequências agudas. A definição das faixas de frequências pode ser observada na Figura 1. Além disso, deve-se ter algum mecanismo de controle de ganho/volume individual (em cada estágio), e um geral (master).
  
- <p align="center">
-	<https://github.com/joerdsonsilva/PROJETO-DA-3-UNIDADE/issues/1#issue-760817268>
-		</p>
+![](https://user-images.githubusercontent.com/75510214/101711689-d9d17e00-3a72-11eb-89d7-e5ea764948a4.png)
+
 	
 # 2. DESENVOLVIMENTO
 
