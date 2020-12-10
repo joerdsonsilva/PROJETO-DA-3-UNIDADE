@@ -48,7 +48,7 @@ DISCENTES :
  
  A seguir os critérios utilizados para as faixas de frequências:
 
-  * Frequência Gaves - adotou-se uma faixa de frequência de 20 Hz à 500 Hz, onde 20 Hz é a frequencia de corte do filtro passa-altas (f_OL) e 500 Hz a frequência de corte do filtro passa-baixas (f_OH).
+  * Frequência Graves - adotou-se uma faixa de frequência de 20 Hz à 500 Hz, onde 20 Hz é a frequencia de corte do filtro passa-altas (f_OL) e 500 Hz a frequência de corte do filtro passa-baixas (f_OH).
   
   * Frequência Médias - adotou-se uma faixa de frequência de 250 Hz à 4 kHz, onde 250 Hz é a frequencia de corte do filtro passa-altas (f_OL) e 2 kHz a frequência de corte do filtro passa-baixas (f_OH). Como pode-se notar, levou-se em consideração a faixa de frequência de transição entre as frequências.
 
