@@ -88,8 +88,11 @@ Podemos observa com a figura 9 que, a largura da banda não se mostrou completam
 
 # 2.2 Esquemático do PCB
 
-A _layout_ da PCB foi construido no software proteus.
+ A seguir é ilustrado o layout e a PCB em 3D. Vale destacar que durante as simulações do projeto e o  _layout_ da PCB , o _software_ utilizado foi o proteus. 
 
+![Captura de Tela (752)](https://user-images.githubusercontent.com/75510214/101816261-940ec700-3aff-11eb-96b6-e7637389eba6.png)
+
+![Captura de Tela (751)](https://user-images.githubusercontent.com/75510214/101816268-95d88a80-3aff-11eb-9bd1-cb50f33345ab.png)
 
 
 # 2.3 Lista dos Materiais (BOM)
