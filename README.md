@@ -106,7 +106,7 @@ A partir das etapas de análise implementadas, foi possível concretizar os obje
 
 Nesta seção, será anexado o link com um vídeo explicativo dos integrantes do projeto.
 
-
+Vídeo de Erika (<https://drive.google.com/file/d/1qVSOvwzjrLqCxzhiHRnqsLTnm3BblINS/view>)
 
 
 
