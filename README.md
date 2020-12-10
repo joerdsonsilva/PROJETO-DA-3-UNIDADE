@@ -14,7 +14,7 @@ DISCENTES :
 	     JOERDSON TIAGO BATISTA DA SILVA
 	     YURI FERNANDES DA SILVEIRA
 
-# EQUALIZADOR DE ÁUDIO
+# *EQUALIZADOR DE ÁUDIO*
 			 
 
 # 1. OBJETIVO
@@ -44,11 +44,15 @@ DISCENTES :
   
   Considerações:
  
-  * Frequência Gaves - adotou-se uma faixa de frequência de 20 Hz à 500 Hz, onde 20 Hz é a frequencia de corte do filtro passa-altas (f_ol) e 500 Hz a frequência de corte do filtro passa-baixas (f_oh).
-  
-  * Frequência Médias - adotou-se uma faixa de frequência de 250 Hz à 4 kHz, onde 250 Hz é a frequencia de corte do filtro passa-altas (f_ol) e 2 kHz a frequência de corte do filtro passa-baixas (f_oh). Como pode-se notar, levou-se em consideração a faixa de frequência de transição entre as frequências.
+ Os amplificadores operacionais (amp-op) também são comumente empregados na construção de filtros ativos. Um circuito de filtro pode ser construído utilizando-se componentes passivos: resistores e capacitores. Além disso, um filtro ativo usa adicionalmente um amplificador para produzir aplicações de tensão e bufferização ou isolação do sinal. Um filtro que apresenta uma resposta constante de CC até uma frequência de corte 𝑓_𝑂𝐻 e impeça que qualquer sinal passe além da frequência é chamado de _filtro passa-baixas_ ideal. Um filtro que permite a passagem somente de sinais de frequência acima de uma frequência de corte 𝑓_𝑂𝐿 é um _filtro passa-altas_. Por fim, quando um circuito permite a passagem de sinais acima de uma frequência de corte e abaixo de uma segunda frequência de corte, é chamado de _filtro passa-banda_.
+ 
+ A seguir os critérios utilizados para as faixas de frequências:
 
-* Frequência Aguda - adotou-se uma faixa de frequência de 2 kHz à 20 kHz, onde 2 kHz é a frequencia de corte do filtro passa-altas (f_ol) e 20 kHz a frequência de corte do filtro passa-baixas (f_oh).
+  * Frequência Gaves - adotou-se uma faixa de frequência de 20 Hz à 500 Hz, onde 20 Hz é a frequencia de corte do filtro passa-altas (f_OL) e 500 Hz a frequência de corte do filtro passa-baixas (f_OH).
+  
+  * Frequência Médias - adotou-se uma faixa de frequência de 250 Hz à 4 kHz, onde 250 Hz é a frequencia de corte do filtro passa-altas (f_OL) e 2 kHz a frequência de corte do filtro passa-baixas (f_OH). Como pode-se notar, levou-se em consideração a faixa de frequência de transição entre as frequências.
+
+* Frequência Aguda - adotou-se uma faixa de frequência de 2 kHz à 20 kHz, onde 2 kHz é a frequencia de corte do filtro passa-altas (f_OL) e 20 kHz a frequência de corte do filtro passa-baixas (f_OH).
 
 ![memorial de cálculoo](https://user-images.githubusercontent.com/75510214/101712624-b3acdd80-3a74-11eb-8665-cda093d8e783.png)
 
