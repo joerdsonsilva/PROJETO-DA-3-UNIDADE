@@ -29,12 +29,12 @@ DISCENTES :
 	
 # **2. DESENVOLVIMENTO**
 
- Um Equalizador permite que você melhore a qualidade de som, ou seja, permite ajustar os níves e efeitos sonoros e assim possa obter o melhor dos seu aparelho eletrônico, como por exemplo alto-falantes ou fones de ouvidos.
+ Um Equalizador permite que você melhore a qualidade de som, ou seja, permite ajustar os níves e efeitos sonoros para assim obter um melhor desempenho dos seus aparelhos eletrônicos, como por exemplo alto-falantes ou fones de ouvidos.
  O projeto tem como finalidade apresentar um equalizador de áudio fácil de usar com o controle de volume individual e um geral, similar ao que acontece na prática.
 
 # 2.1 Memorial Descritivo
 
- Como mencionado anteriormente, o circuito será constituído por um filtro ativo, do tipo passa banda de segunda ordem, com implementação de amp-op. Dessa forma, para construir a topologia do filtro passa-banda é necessário a junção de dois filtros ativos, o filtro passa-altas e o filtro  passa-baixas, respectivamente nessa ordem a junção. Nesta seção, será apresentado o memorial descritivo da parte teórica, e por fim, os resultados obtidos. 
+ Como mencionado anteriormente, o circuito é constituído por um filtro ativo, do tipo passa banda de segunda ordem, com implementação de amp-op. Dessa forma, para construir a topologia do filtro passa-banda é necessário a junção de dois filtros ativos, o filtro passa-altas e o filtro  passa-baixas, respectivamente nessa ordem a junção. Nesta seção, é apresentado o memorial descritivo da parte teórica, e por fim, os resultados obtidos. 
  
  # 2.1.1. _Memorial de Cálculo_
   
@@ -100,7 +100,7 @@ Tabela 1 - Lista de Materiais
 
 # CONCLUSÃO
 
-A partir das etapas de análise implementadas, foi possível concretizar os objetivos pretendidos com a determinação das faixas de frequências graves, médias e agudas. A análise teórica realizada apresentou resultados convergentes com os obtidos na simulação do circuito. Assim, a modelagem simplificadora adotada apresenta validade significativa.
+A partir das etapas de análise implementadas, foi possível concretizar os objetivos pretendidos com a determinação das faixas de frequências graves, médias e agudas. A análise teórica realizada apresentou resultados convergentes com os obtidos na simulação do circuito. Assim, portanto, a modelagem simplificadora adotada apresenta validade significativa.
 
 # **Anexos**
 
