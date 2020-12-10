@@ -88,7 +88,7 @@ Podemos observa com a figura 9 que, a largura da banda não se mostrou completam
 
 # 2.2 Esquemático do PCB
 
-A layout da PCB foi construido no software proteus.
+A _layout_ da PCB foi construido no software proteus.
 
 
 
@@ -98,7 +98,7 @@ Nesta seção será apresentado a lista dos materiais, utilizados para elaborar 
 
 Tabela 1 - Lista de Materiais
 
-![assc](https://github.com/joerdsonsilva/PROJETO-DA-3-UNIDADE/blob/main/assc.png)
+![tabela 1](https://user-images.githubusercontent.com/75510214/101815480-5fe6d680-3afe-11eb-9aa1-d64833c96633.jpeg)
 
 Fonte dos preços: Bau da eletrônica, Solda Fria, Paresteck e Amazon.
 
