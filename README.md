@@ -60,55 +60,20 @@ A Figura 2 mostra a topologia do circuito para a frequencia grave, e na sua resp
 
 ![figura 3](https://user-images.githubusercontent.com/75510214/101715546-69c6f600-3a7a-11eb-9aa4-680bf8a73847.png)
 
+A Figura 4 apresenta a topologia para o filtro passa banda de frequência média e a Figura 5, sua resposta de frequência de corte.
+
+![figura 4](https://user-images.githubusercontent.com/75510214/101715743-c0343480-3a7a-11eb-85e0-93083fde7448.png)
+
+![fig 5](https://user-images.githubusercontent.com/75510214/101716690-94b24980-3a7c-11eb-8cb3-60964ff9199d.png)
+
+Agora será apresentado o filtro passa banda de frequência aguda na Figura 6 e sua frequência de corte, Figura 7.
+
+![fig 6](https://user-images.githubusercontent.com/75510214/101716924-10ac9180-3a7d-11eb-9682-1e31188d61ad.png)
+
+![fig 7](https://user-images.githubusercontent.com/75510214/101716943-1f934400-3a7d-11eb-8c41-7955209426e7.png)
 
 
 
 
-# Filtros ativos
-Todo mundo tem um conceito intuitivo sobre a função de um filtro. Em quase todos os sistemas eletrônicos existem algum tipo de filtro, principalmente no campo da telecomunicação e da instrumentação industrial, na qual se fazem mais presente em meios aos circuitos. Por exemplo, atualmente, os filtros ativos são elementos básicos nos circuitos de redes de comunicação de dados, posto que os equipamentos de computadores são conectados à rede telefônica através de MODEM, que são a base de filtros ativos. 
-Um filtro elétrico por definição é “ um quadripolo capaz de atenuar determinadas frequências do espectro de sinal de entrada e permite a passagem das demais”. Em sua maioria, os filtros são constituídos de componentes passivos como resistores e capacitores. Nos filtros ativos utilizam amplificadores, associados aos elementos passivos, nos quais tem função de produzir amplificação de tensão, buferização ou isolamento do sinal. Os filtros ativos podem ser classificados como passa-baixa, passa-alta ou passa-banda, que é o a junção dos dois outros tipos de filtros e objeto de pesquisa do presente trabalho. 
-
-O equalizador é composto de filtros ativo passa-banda de segunda ordem (onde são construidos por meio de um filtro ativo passa-baixa e um passa-alta, ambos de segunda ordem e com componentes iguais) e divididos nos 3 estagios de frequência (graves, médios e agudos). 
-
-
-# Filtro passa-baixa - frequências graves
-Para as frequências graves, temos que o filtro passa-banda irá atuar entre as frequências de 20Hz a 500Hz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
-
-Podemos observar que, os componentes calculados para os filtros são de valores comerciais, sendo para alguns, o uso de associação série ou paralela para obter o valor projetado.
-
-# Filtro passa-baixa - frequências médias
-Para as frequências médias, temos que o filtro passa-banda irá atuar entre as frequências de XXHz a XXXHz (o filtro passa-banda de frequências médias atuará entre as frequências graves e agudas. Devido a isso, foi considerado uma faixa de transição entre os graves-médios e agudos-médios (isso ocorre devido a quantidade de estágios, pois nãp é possível compreender todas as faixas de frequências e sub frequências), de modo que existe uma faixa onde as frequências atuam em conjunto), de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
-
-# Filtro passa-baixa - frequências agudas
-Para as frequências agudas, temos que o filtro passa-banda irá atuar entre as frequências de 2kHz a 20kHz, de modo que os componentes dos filtros atuem de acordo com esssas frequências. Podemos calcular os componentes da seguinte forma:
-
-# Mecanismo de controle de ganho
-O equalizador deve conter um mecanismo de controle de ganho invidual (em cada estágio) e um geral (controle o ganho total), de modo a atuar atuar nas frequências mais graves, médias e agudas dos filtros, assim como no ganho geral do equalizador. Para obter esse mecanismo de controle, será usado potênciometros, posicionados nos filtros (para obter o ganho individual dos estágioss) e no somador (para obter o ganho total) ....... Temos que o ganho do filtro foram definidos da seguinte forma:
-
-Para as frequências graves:
-
-Para as frequências médias:
-
-Para ass frequências agudas:
-
-Para o controle de ganho individual, o potênciometro será posicionado no R2 dos filtro passa-baixas, de modo que se variar o potênciometro com uma resistência mais baixa (R2<X), o ganho do estágio diminui e se varia com uma resistência maior (R2>X), o ganho aumenta. 
-
-Para o controle de ganho master, o potenciômetro é posicionado na resistência de referência Rf, pois cada entrada do somador (saída dos filtros) adiciona um nível de tensão que é multiplicado pelo seu fator de ganho e, como as resistências de de entrada do somador são iguais (R=1k), o potênciometro na posição de Rf afeta diretamente o ganhov (equação X), visto que se eu aumentar o valor de Rf (Rf>1k=R), aumento o ganho total do meu equalizador, e se eu diminuir Rf (Rf<1k=R), terei um ganho total menor do meu equalizador (tendo como base o ganho incial projetado para o equalizador).
-
-
-c) Captura de esquemático e simulações
-
-
-Um filtro ideal possuiria uma banda passante totalmente plana (sem atenuação), atenuando completamente todas as frequências fora desta banda (mas prática, nenhum filtro passa-faixa é ideal pois não atenua todas as frequências fora da faixa desejada) e inalterando as frequências dentro as faixas projetadas. O equalzador projetado possui uma 
-
-d) Elaboração da PCB
-
-e) BOM (Bill of materials)
-
-_Elaborar a lista de materiais
-
-f) Finalização e elaboração de vídeo explicativo.
-
-g) Envio dos arquivos fonte.
 
 
