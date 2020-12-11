@@ -114,7 +114,7 @@ Nesta seção, será anexado o link com um vídeo explicativo dos integrantes do
 Vídeo de Erika (<https://drive.google.com/file/d/1qVSOvwzjrLqCxzhiHRnqsLTnm3BblINS/view>
 <https://drive.google.com/file/d/1W7HToCUN6iWY3q03z0qC4lZ3TPHgU_lA/view>)
 
-Vídeo de Joerdson ()
+Vídeo de Joerdson ( )
 
 Vídeo de Yuri (<https://drive.google.com/file/d/1RKlBarmfgpW-UrKd1QoHDpdVuPZ0AN3d/view?usp=sharing>)
 
